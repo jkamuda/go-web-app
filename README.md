@@ -1,0 +1,1 @@
+Writing a web app using Go following this tutorial: https://go.dev/doc/articles/wiki/
